@@ -1,5 +1,5 @@
 # 🎓 Sistema de Registro Universitario (API REST)
-# 💡Estudiante: Quispe Rojas Victor Bernardo
+
 ♨️API REST para la gestión de estudiantes universitarios, desarrollada con Spring Boot y arquitectura en capas.♨️
 Permite:
 
@@ -35,7 +35,7 @@ Características:
 
 
 
-### 🛠️ Estructura del Proyecto
+## 🛠️ Estructura del Proyecto
 ```
 src/
 ├── main/
@@ -50,9 +50,9 @@ src/
 │   └── resources/
 │       └── application.properties # Configuración
 ```
-### 🍂Pruebas iniciales:
+## 🍂Pruebas iniciales:
 El sistema incluye datos demo (2 estudiantes precargados)
 Accede a GET /api/estudiantes para verlos
-
+# 💡Estudiante: Quispe Rojas Victor Bernardo
 
 
